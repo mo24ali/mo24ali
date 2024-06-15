@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000000000&color=F75C7E&center=true&vCenter=true&width=435&lines=Mohammed-ali+Cherraoui" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000000000&color=5C7EF7&center=true&vCenter=true&width=435&lines=Mohammed-ali+Cherraoui" alt="Typing SVG" /></a>
  <p align="center">
   <a href="https://github.com/mo24ali?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mo24ali?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
